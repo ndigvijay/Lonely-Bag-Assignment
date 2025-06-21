@@ -21,7 +21,7 @@ Lonely_Bag/
 ## Tech Stack
 - **Backend**: Node.js, Express.js, MongoDB
 - **Frontend**: React.js, CSS3
-- **Database**: MongoDB (Local)
+- **Database**: MongoDB 
 - **Containerization**: Docker & Docker Compose
 
 ## Prerequisites
