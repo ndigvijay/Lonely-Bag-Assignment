@@ -175,13 +175,6 @@ curl -X POST http://localhost:5000/api/auth/login \
 - ✅ MongoDB Integration
 - ✅ API Documentation
 
-## Next Steps for Deployment 🚀
-1. AWS EC2 Instance Setup
-2. Docker deployment on EC2
-3. MongoDB Atlas integration
-4. SSL/TLS configuration
-5. Environment variable management
-6. CI/CD pipeline setup
 
 ## Environment Variables
 Check `env.example` file in backend folder for required environment variables.
