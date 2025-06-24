@@ -24,12 +24,6 @@ Lonely_Bag/
 - **Database**: MongoDB 
 - **Containerization**: Docker & Docker Compose
 
-## Prerequisites
-- Node.js (v14 or higher)
-- MongoDB (Local installation)
-- Docker & Docker Compose
-- Git
-
 ## Quick Start
 
 ### 1. Clone the repository
